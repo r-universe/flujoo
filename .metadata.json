@@ -1,0 +1,14 @@
+[
+  {
+    "package": "erify",
+    "oncran": true
+  },
+  {
+    "package": "gm",
+    "oncran": true
+  },
+  {
+    "package": "personr",
+    "oncran": true
+  }
+]
