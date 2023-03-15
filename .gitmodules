@@ -3,14 +3,14 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "gm"]
-	path = gm
-	url = https://github.com/flujoo/gm
-	shallow = true
-	registered = true
 [submodule "erify"]
 	path = erify
 	url = https://github.com/flujoo/erify
+	shallow = true
+	registered = true
+[submodule "gm"]
+	path = gm
+	url = https://github.com/flujoo/gm
 	shallow = true
 	registered = true
 [submodule "personr"]

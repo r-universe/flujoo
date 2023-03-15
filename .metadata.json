@@ -1,10 +1,10 @@
 [
   {
-    "package": "gm",
+    "package": "erify",
     "oncran": true
   },
   {
-    "package": "erify",
+    "package": "gm",
     "oncran": true
   },
   {
